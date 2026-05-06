@@ -64,13 +64,25 @@ accessibility-audit.skill
 
 ### Step 1 — Install the skill
 
+**If you are on a Free plan:**
+
+1. Go to **[claude.ai](https://claude.ai)** and sign in
+2. In the **left sidebar**, click **Customize**
+3. Navigate to **Skills**
+4. Click the **+** (plus) button
+5. Select **Create Skill**
+6. Choose **Upload Skill** and upload the `accessibility-audit.skill` file
+7. The skill appears in your list as **accessibility-audit** — toggle it **On**
+
+**If you are on a Pro, Team, or Enterprise plan:**
+
 1. Go to **[claude.ai](https://claude.ai)** and sign in
 2. Click your profile icon → **Settings**
 3. Navigate to **Skills** (or **Extensions**, depending on your plan)
 4. Click **Install Skill** or drag and drop `accessibility-audit.skill` into the skills panel
 5. The skill appears in your list as **accessibility-audit** — toggle it **On**
 
-> **Note:** Skills are available on Claude Pro, Team, and Enterprise plans. Check [claude.ai/upgrade](https://claude.ai/upgrade) if you don't see the Skills tab.
+> **Note:** If you don't see the **Customize** option in the left sidebar or the **Skills** tab in Settings, check [claude.ai/upgrade](https://claude.ai/upgrade) to review your plan options.
 
 ### Step 2 — Start a new conversation
 
@@ -369,12 +381,6 @@ Consult a qualified attorney for compliance determinations.
 
 ---
 
-## 🙏 Credits
-
-**Skill created by Anish M Mathew**
-
-Powered by [Claude](https://claude.ai) · Built on the Claude Skills platform by Anthropic
-
 ---
 
 ## 📄 License
@@ -383,4 +389,4 @@ MIT License — free to use, modify, and distribute. Attribution appreciated.
 
 ---
 
-*Last updated: May 2026*
+*Made by Anish M Mathew · Last updated: May 2026*
